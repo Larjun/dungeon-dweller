@@ -1,0 +1,31 @@
+Arjun's health: 2000
+Arjun's mana: 1000
+Arjun's armor: 5
+Number of keys collected: 0
+Kill Count: 0
+Score: 0
+ w w w w w w w w w w w w w w w w w w w w w w w w w
+ w h p p p i p p p p p p p p p p p p p p p p p p w
+ w p p w w w w w p p p p p w w w w w w w w p p p w
+ w p p w w w w w p p p p p w w w w w w w w p p p w
+ w p p p p p w w p p p p p w w w w i w w w p p p w
+ w p p p p p w w p p p p p w w w w m w w w p p p w
+ w p m p p p w w p p p p p p p p p p p p p p p p w
+ w p p p p p w w p p m p p p p p p p p p p p p p w
+ w p p p p p p p p p p p p p p p p p w w w w p p w
+ w p p p p m p p p p p p w w w w p p m i w w p p w
+ w p p p p p p p w w p p w w w w p p w w w w p p w
+ w p w w w w p p w w p p w i w w p p w w w w p p w
+ w p w w w w p p w w p p w m w w p p p p p p p p w
+ w p w w w w p p w w p p p p p p p p p p p p p p w
+ w p w w w w p p w w p p p p p p p p p p m p p p w
+ w p p p p p p p p p p w w w p w p p p p p p p p w
+ w p p p p p p p p p p w w w p w p p p p p p p p w
+ w p p p p p p w w w w p p p m w p p w w p w w w w
+ w w p w p p p w w w w m w w w w p p w w m w w w w
+ w w p w p p p w w w w p p p p w p p w w p w w w w
+ w w m w p p p w w w w w w w m w p p w w m p p i w
+ w w p w m p p p m p w p p p p w p p w w p w w w w
+ w w p w p w w w w p w m w w w w p p w w p w w w w
+ w i p w i w w w w i w p i i i w p p w w i w w w w
+ w w w w w w w w w w w w w w w w w w w w w w w w w

@@ -1,0 +1,5 @@
+Slash,50,Physical,0.1,0
+Pierce,30,Physical,0.02,0
+Elemental Magic,45,Magical,0.2,75
+Pure Magic,60,Magical,0,300
+Rest,0,Magical,0,-25
